@@ -1,0 +1,12 @@
+1. /c/Users/park/Desktop/경매GO/GyungMae_Go
+
+2. 인텔리제이에서 수정
+
+3. git bash에서 git push
+
+4. 내 원격 레포지토리에서 create pull request 생성
+경로는 내 원격 레포지토리 main -> 정규햄 원격 레포지토리 sanghwan
+
+5. 정규햄 원격 레포지토리 sanghwan 에서 create pull request
+경로는 정규햄 원격 레포지토리 sanghwan -> 정규햄 원격 레포지토리 main
+
