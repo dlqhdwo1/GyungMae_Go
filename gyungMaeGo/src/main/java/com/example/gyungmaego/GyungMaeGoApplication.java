@@ -9,5 +9,5 @@ public class GyungMaeGoApplication {
     public static void main(String[] args) {
         SpringApplication.run(GyungMaeGoApplication.class, args);
     }
-
+    //테스트중
 }
